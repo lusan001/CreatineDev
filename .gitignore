@@ -1,0 +1,4 @@
+venv/
+chat_id.txt
+__pycache__/
+.env
